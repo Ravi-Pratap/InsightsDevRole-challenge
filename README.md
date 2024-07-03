@@ -49,8 +49,6 @@ Submit your SQL queries, the ETL script, and screenshots or a link to your BI da
 
 1. **Provided CSV Dataset**
 
-   Dataset related to sales transactions with columns such as:
-
 Sales Transactions Dataset properties:
 * 100 records
 * Date Period: 03/01/2023 to 31/12/2023
@@ -72,23 +70,27 @@ Field descriptions
 
 2. **SQL Skills Assessment**
    
-   Prepare a set of SQL tasks that the candidate needs to perform on the dataset. These tasks can include:
+   Prepare a set of SQL tasks that needs to perform on the dataset.
+
+   These tasks can include:
    - **Data Extraction**: Write a query to extract all sales data for the last quarter.
    - **Aggregation**: Calculate the total sales amount per region.
    - **Joins**: Find the total sales amount per customer, considering a separate customer details table.
    - **Filtering and Sorting**: Retrieve the top 10 products by sales amount in the last month.
    - **Subqueries**: Identify customers who have not made a purchase in the last six months.
 
-3. **Pipeline Building Skills**
+4. **Pipeline Building Skills**
 
-   Ask the candidate to build a data pipeline that automates the process of data extraction, transformation, and loading (ETL). This could involve:
+   Build a data pipeline that automates the process of data extraction, transformation, and loading (ETL).
+
+   This could involve:
    - **Data Ingestion**: Write a script to import the dataset from a CSV file into a database.
    - **Data Transformation**: Apply necessary transformations, such as calculating the TotalAmount as Quantity * Price - Discount.
    - **Data Loading**: Load the transformed data into a target database or a data warehouse.
 
-4. **BI Visualization Skills**
+6. **BI Visualization Skills**
 
-   Provide the candidate with access to a BI tool (e.g., Tableau, Power BI) and ask them to create several visualizations:
+   Using BI tool (e.g., Tableau, Power BI) to create several visualizations:
    - **Sales Dashboard**: Create a dashboard showing total sales, sales trends over time, and sales breakdown by region.
    - **Customer Insights**: Visualize the top 10 customers by sales and the distribution of sales among different customer segments.
    - **Product Performance**: Create a visualization to show the best-selling products and products with the highest discounts.
