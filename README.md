@@ -57,7 +57,7 @@ Sales Transactions Dataset properties:
 * Format: csv format
 * File size ~ 6KB
   
-.Field descriptions
+Field descriptions
    - **TransactionID**: Unique identifier for each transaction.
    - **Date**: The date when the transaction occurred.
    - **CustomerID**: Unique identifier for the customer.
@@ -70,7 +70,7 @@ Sales Transactions Dataset properties:
    - **Region**: Geographic region of the store.(East, North, South, West)
    - **SalespersonID**: Unique identifier for the salesperson.
 
-3. **SQL Skills Assessment**
+2. **SQL Skills Assessment**
    
    Prepare a set of SQL tasks that the candidate needs to perform on the dataset. These tasks can include:
    - **Data Extraction**: Write a query to extract all sales data for the last quarter.
@@ -79,14 +79,14 @@ Sales Transactions Dataset properties:
    - **Filtering and Sorting**: Retrieve the top 10 products by sales amount in the last month.
    - **Subqueries**: Identify customers who have not made a purchase in the last six months.
 
-4. **Pipeline Building Skills**
+3. **Pipeline Building Skills**
 
    Ask the candidate to build a data pipeline that automates the process of data extraction, transformation, and loading (ETL). This could involve:
    - **Data Ingestion**: Write a script to import the dataset from a CSV file into a database.
    - **Data Transformation**: Apply necessary transformations, such as calculating the TotalAmount as Quantity * Price - Discount.
    - **Data Loading**: Load the transformed data into a target database or a data warehouse.
 
-5. **BI Visualization Skills**
+4. **BI Visualization Skills**
 
    Provide the candidate with access to a BI tool (e.g., Tableau, Power BI) and ask them to create several visualizations:
    - **Sales Dashboard**: Create a dashboard showing total sales, sales trends over time, and sales breakdown by region.
