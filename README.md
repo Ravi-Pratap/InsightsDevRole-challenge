@@ -3,7 +3,7 @@ Created By:   Ravinendra Pratap
 
 Created on:   28-Jul-2024
 
-# Comprehensive Data Analysis Task
+# Data Analysis Task
 
 ## Objective
 To assess your SQL skills, data pipeline-building capabilities, and BI visualization expertise using a provided sales dataset.
